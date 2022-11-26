@@ -1,0 +1,21 @@
+.nav-link{
+    color: white !important;
+    
+ 
+}
+.nav-barra{
+    background-color: #00659e !important;
+    padding: 0%;
+}
+
+.active-link{
+    border-bottom: 3px solid #ff5a19;
+}
+
+.nav-link:hover {
+    border-bottom: 3px solid #ff5a19;
+    
+ 
+}
+
+
